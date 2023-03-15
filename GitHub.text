@@ -1,1 +1,3 @@
-
+Master and Main are the same
+Previously, the name of the default branch of any repository was “master”. 
+But from October-2020 onward, the default branch of any GitHub repository is using “main” as the default branch name, instead of master.
