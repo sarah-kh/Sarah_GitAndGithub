@@ -1,1 +1,4 @@
-
+In Git, we are always working on a branch. 
+The default branch name is master (or main). 
+The master branch is not special in any way or has any superpowers. 
+From Git's perspective, the master branch is just like any other branch, and it does not even need to hold the master copy of your project.
